@@ -1,0 +1,9 @@
+{
+  "name": "json-dumper",
+  "version": "v1.0.0-alpha",
+  "description": "A json manipulation package",
+  "main": "index.js",
+  "repository": "https://github.com/tasmidur/json-dumper.git",
+  "author": "Md Tasmidur Rahman",
+  "license": "MIT"
+}
